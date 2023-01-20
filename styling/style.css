@@ -1,0 +1,17 @@
+.banner {
+    background: rgba(231, 111, 81, 0.1);
+}
+
+.fa-star {
+    color: #E77C40;
+}
+
+.sz img {
+    margin-bottom: 1rem;
+    width: 135px;
+    height: 40px;
+}
+
+ul li{
+    margin-right: 1rem;
+}
